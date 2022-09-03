@@ -10,6 +10,8 @@
     <title>Hello_Hexo</title>
     <url>/2022/09/02/hello-hexo/</url>
     <content><![CDATA[<p>Hexo是一款基于Node.js，利用Markdown编写文章生成静态网站的框架。在此记录一些Hexo常见操作和命令，详情可访问<a href="https://hexo.io/docs/">Hexo官方文档</a></p>
+<span id="more"></span>
+
 <h3 id="Hexo命令"><a href="#Hexo命令" class="headerlink" title="Hexo命令"></a>Hexo命令</h3><ul>
 <li>初始化博客</li>
 </ul>
