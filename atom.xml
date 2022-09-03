@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-03T08:23:40.370Z</updated>
+  <updated>2022-09-03T12:56:52.561Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,12 +21,41 @@
     <link href="http://example.com/2022/09/02/hello-hexo/"/>
     <id>http://example.com/2022/09/02/hello-hexo/</id>
     <published>2022-09-02T14:53:43.000Z</published>
-    <updated>2022-09-03T08:23:40.370Z</updated>
+    <updated>2022-09-03T12:56:52.561Z</updated>
     
-    <content type="html"><![CDATA[<p>Hexo是一款基于Node.js，利用Markdown编写文章生成静态网站的框架。在此记录一些Hexo常见操作和命令，详情可访问<a href="https://hexo.io/docs/">Hexo官方文档</a></p><span id="more"></span><h3 id="Hexo命令"><a href="#Hexo命令" class="headerlink" title="Hexo命令"></a>Hexo命令</h3><ul><li>初始化博客</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><ul><li>新建文章</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;my_blog&quot;</span></span><br></pre></td></tr></table></figure><ul><li>启动服务，本地预览博客</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><ul><li>生成静态网页文件(位于public文件夹)</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><ul><li>清空缓存即public文件夹</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><ul><li>部署网站到服务器</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><h3 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h3><ul><li>站点配置文件：根目录下_config,yml</li><li>主题配置文件：主题目录下_config.yml</li><li>NexT主题配置，详见<a href="http://theme-next.iissnan.com/">NexT使用文档</a></li></ul><h3 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h3><ul><li><a href="https://www.laijiahao.cn/posts/a1047ed6/">搭建hexo博客</a></li><li><a href="https://zhuanlan.zhihu.com/p/26625249/">GitHub+Hexo 搭建个人网站详细教程</a></li><li><a href="https://notes.iissnan.com/">IIssNan’s Notes</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>Hexo是一款基于Node.js，利用Markdown编写文章生成静态网站的框架。在此记录一些Hexo常见操作和命令，详情可访问<a href="https://hexo.io/docs/">Hexo官方文档</a></p><h3 id="Hexo命令"><a href="#Hexo命令" class="headerlink" title="Hexo命令"></a>Hexo命令</h3><ul><li>初始化博客</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><ul><li>新建文章</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;my_blog&quot;</span></span><br></pre></td></tr></table></figure><ul><li>启动服务，本地预览博客</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><ul><li>生成静态网页文件(位于public文件夹)</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><ul><li>清空缓存即public文件夹</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><ul><li>部署网站到服务器</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><span id="more"></span><h3 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h3><ul><li>站点配置文件：根目录下_config,yml</li><li>主题配置文件：主题目录下_config.yml</li><li>NexT主题配置，详见<a href="http://theme-next.iissnan.com/">NexT使用文档</a></li></ul><h3 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h3><ul><li><a href="https://www.laijiahao.cn/posts/a1047ed6/">搭建hexo博客</a></li><li><a href="https://zhuanlan.zhihu.com/p/26625249/">GitHub+Hexo 搭建个人网站详细教程</a></li><li><a href="https://notes.iissnan.com/">IIssNan’s Notes</a></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;Hexo是一款基于Node.js，利用Markdown编写文章生成静态网站的框架。在此记录一些Hexo常见操作和命令，详情可访问&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;Hexo官方文档&lt;/a&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hexo是一款基于Node.js，利用Markdown编写文章生成静态网站的框架。在此记录一些Hexo常见操作和命令，详情可访问&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;Hexo官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Hexo命令&quot;&gt;&lt;a href=&quot;#Hexo命令&quot; class=&quot;headerlink&quot; title=&quot;Hexo命令&quot;&gt;&lt;/a&gt;Hexo命令&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;初始化博客&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo init&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;新建文章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;my_blog&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;启动服务，本地预览博客&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;生成静态网页文件(位于public文件夹)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;清空缓存即public文件夹&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo clean&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;部署网站到服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
@@ -42,16 +71,13 @@
     <link href="http://example.com/2022/09/02/demo/"/>
     <id>http://example.com/2022/09/02/demo/</id>
     <published>2022-09-02T03:29:22.000Z</published>
-    <updated>2022-09-02T03:30:24.788Z</updated>
+    <updated>2022-09-02T07:36:43.467Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2022/09/02/demo/dog.png" alt="dog"></p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/09/02/demo/dog.png&quot; alt=&quot;dog&quot;&gt;&lt;/p&gt;
 </summary>
-      
     
     
     
