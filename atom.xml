@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-04T12:13:37.132Z</updated>
+  <updated>2022-09-05T11:18:12.047Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/test/"/>
+    <id>http://example.com/test/</id>
+    <published>2022-09-05T11:18:12.000Z</published>
+    <updated>2022-09-05T11:18:12.047Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello_Hexo</title>
@@ -42,16 +55,14 @@
     <link href="http://example.com/demo/"/>
     <id>http://example.com/demo/</id>
     <published>2022-09-02T03:29:22.000Z</published>
-    <updated>2022-09-04T13:22:56.784Z</updated>
+    <updated>2022-09-05T11:04:13.721Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/demo/dog.png" alt="dog"></p><span id="more"></span><div class="tabs" id><ul class="nav-tabs"><li class="tab active"><a href="#-1">A</a></li><li class="tab"><a href="#-2">B</a></li><li class="tab"><a href="#-3">C</a></li></ul><div class="tab-content"><div class="tab-pane active" id="-1"><p><strong>选项卡 1</strong> </p></div><div class="tab-pane" id="-2"><p><strong>选项卡 2</strong></p></div><div class="tab-pane" id="-3"><p><strong>选项卡 3</strong> </p></div></div></div>]]></content>
+    <content type="html"><![CDATA[<p><img src="/demo/dog.png" alt="dog"></p><span id="more"></span><div class="tabs" id="dog"><ul class="nav-tabs"><li class="tab active"><a href="#dog-1">A</a></li><li class="tab"><a href="#dog-2">B</a></li><li class="tab"><a href="#dog-3">C</a></li></ul><div class="tab-content"><div class="tab-pane active" id="dog-1"><p><strong>选项卡 1</strong> </p></div><div class="tab-pane" id="dog-2"><p><strong>选项卡 2</strong></p></div><div class="tab-pane" id="dog-3"><p><strong>选项卡 3</strong> </p></div></div></div>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/demo/dog.png&quot; alt=&quot;dog&quot;&gt;&lt;/p&gt;</summary>
     
     
-    
-    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
