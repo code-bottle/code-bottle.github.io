@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-06T09:46:19.492Z</updated>
+  <updated>2022-09-06T09:54:31.485Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,18 +21,12 @@
     <link href="http://example.com/code-map/"/>
     <id>http://example.com/code-map/</id>
     <published>2022-09-06T09:27:30.000Z</published>
-    <updated>2022-09-06T09:46:19.492Z</updated>
+    <updated>2022-09-06T09:54:31.485Z</updated>
     
-    <content type="html"><![CDATA[<span id="more"></span><h3 id="1、Java核心基础"><a href="#1、Java核心基础" class="headerlink" title="1、Java核心基础"></a>1、Java核心基础</h3><ul><li><p>Java基础</p><ul><li><input disabled type="checkbox"> 语法</li><li><input disabled type="checkbox"> 数组</li><li><input disabled type="checkbox"> 异常处理</li><li><input disabled type="checkbox"> 常用类</li></ul></li><li><p>面向对象</p><ul><li><input disabled type="checkbox"> 封装</li><li><input disabled type="checkbox"> 继承</li><li><input disabled type="checkbox"> 多态</li></ul></li><li><p>Java高级</p><ul><li><input disabled type="checkbox"> 多线程</li><li><input disabled type="checkbox"> 集合</li><li><input disabled type="checkbox"> IO流</li><li><input disabled type="checkbox"> 注解</li><li><input disabled type="checkbox"> 泛型</li><li><input disabled type="checkbox"> 反射</li></ul></li></ul><h3 id="2、Java企业级开发"><a href="#2、Java企业级开发" class="headerlink" title="2、Java企业级开发"></a>2、Java企业级开发</h3>]]></content>
+    <content type="html"><![CDATA[<p>学习路线一条龙</p><span id="more"></span><h3 id="1、Java核心基础"><a href="#1、Java核心基础" class="headerlink" title="1、Java核心基础"></a>1、Java核心基础</h3><ul><li><p>Java基础</p><ul><li><input disabled type="checkbox"> 语法</li><li><input disabled type="checkbox"> 数组</li><li><input disabled type="checkbox"> 异常处理</li><li><input disabled type="checkbox"> 常用类</li></ul></li><li><p>面向对象</p><ul><li><input disabled type="checkbox"> 封装</li><li><input disabled type="checkbox"> 继承</li><li><input disabled type="checkbox"> 多态</li></ul></li><li><p>Java高级</p><ul><li><input disabled type="checkbox"> 多线程</li><li><input disabled type="checkbox"> 集合</li><li><input disabled type="checkbox"> IO流</li><li><input disabled type="checkbox"> 注解</li><li><input disabled type="checkbox"> 泛型</li><li><input disabled type="checkbox"> 反射</li></ul></li></ul><h3 id="2、Java企业级开发"><a href="#2、Java企业级开发" class="headerlink" title="2、Java企业级开发"></a>2、Java企业级开发</h3>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-
-&lt;h3 id=&quot;1、Java核心基础&quot;&gt;&lt;a href=&quot;#1、Java核心基础&quot; class=&quot;headerlink&quot; title=&quot;1、Java核心基础&quot;&gt;&lt;/a&gt;1、Java核心基础&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Java</summary>
-      
+    <summary type="html">&lt;p&gt;学习路线一条龙&lt;/p&gt;</summary>
     
     
     
