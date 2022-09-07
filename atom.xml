@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-06T09:54:31.485Z</updated>
+  <updated>2022-09-07T09:32:42.721Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>idea_keymap</title>
+    <link href="http://example.com/idea-keymap/"/>
+    <id>http://example.com/idea-keymap/</id>
+    <published>2022-09-07T04:12:56.000Z</published>
+    <updated>2022-09-07T09:32:42.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>IDEA快捷键设置方式，打开Settings–&gt;keymap即可，可选择功能搜索与快捷键搜索两种方式，下面记录常用的快捷键。</p><span id="more"></span><h3 id="Ctrl"><a href="#Ctrl" class="headerlink" title="Ctrl"></a>Ctrl</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">Ctrl + D</td><td align="center">复制光标所在行 或 复制选择内容，并把复制内容插入光标位置下面</td></tr><tr><td align="center">Ctrl + C</td><td align="center">复制光标所在行 或 复制选择内容</td></tr><tr><td align="center">Ctrl + V</td><td align="center">粘贴由复制或剪切所选择的内容</td></tr><tr><td align="center">Ctrl + X</td><td align="center">剪切光标所在行 或 剪切选择内容</td></tr><tr><td align="center">Ctrl + Y</td><td align="center">删除光标所在行 或 删除选中的行</td></tr><tr><td align="center">Ctrl + Z</td><td align="center">撤销</td></tr><tr><td align="center">Ctrl + F</td><td align="center">在当前文件进行文本查找</td></tr><tr><td align="center">Ctrl + R</td><td align="center">在当前文件进行文本替换</td></tr><tr><td align="center">Ctrl + W</td><td align="center">递进式选择代码块</td></tr><tr><td align="center">Ctrl + B</td><td align="center">进入光标所在的方法&#x2F;变量的接口，等效于 Ctrl + 左键单击</td></tr><tr><td align="center">Ctrl + &#x2F;</td><td align="center">注释光标所在行代码</td></tr><tr><td align="center">Ctrl + Space</td><td align="center">基础代码补全</td></tr></tbody></table><h3 id="Alt"><a href="#Alt" class="headerlink" title="Alt"></a>Alt</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">Alt + Enter</td><td align="center">提供快速修复选择，光标放在的位置不同提示的结果也不同</td></tr><tr><td align="center">Alt+&#x2F;</td><td align="center">快速补全代码</td></tr></tbody></table><h3 id="Shift"><a href="#Shift" class="headerlink" title="Shift"></a>Shift</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">Shift + Enter</td><td align="center">在当前行下面生成一行空行，光标自动移到空行行首</td></tr><tr><td align="center">Shift + F9</td><td align="center">等效于点击工具栏的 <code>Debug</code> 按钮</td></tr><tr><td align="center">Shift + F10</td><td align="center">等效于点击工具栏的 <code>Run</code> 按钮</td></tr></tbody></table><h3 id="Ctrl-Alt"><a href="#Ctrl-Alt" class="headerlink" title="Ctrl+Alt"></a>Ctrl+Alt</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">Ctrl + Alt + L</td><td align="center">格式化代码，可以对当前文件和整个包目录使用</td></tr><tr><td align="center">Ctrl + Alt + O</td><td align="center">优化导入的类，可以对当前文件和整个包目录使用</td></tr><tr><td align="center">Ctrl + Alt + T</td><td align="center">对选中的代码弹出环绕选项if,while,try&#x2F;catch</td></tr></tbody></table><h3 id="Ctrl-Shift"><a href="#Ctrl-Shift" class="headerlink" title="Ctrl+Shift"></a>Ctrl+Shift</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">Ctrl + Shift + Delete</td><td align="center">去除相关的代码块包装</td></tr><tr><td align="center">Ctrl + Shift + F</td><td align="center">根据输入内容查找整个项目 或 指定目录内文件</td></tr><tr><td align="center">Ctrl + Shift + R</td><td align="center">根据输入内容替换对应内容，范围为整个项目 或 指定目录内文件</td></tr><tr><td align="center">Ctrl + Shift + W</td><td align="center">递进式取消选择代码块</td></tr><tr><td align="center">Ctrl + Shift + &#x2F;</td><td align="center">代码块注释</td></tr><tr><td align="center">Ctrl + Shift + Enter</td><td align="center">自动结束代码，行末自动添加分号</td></tr></tbody></table><h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><table><thead><tr><th align="center">快捷键</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">.var</td><td align="center">自动分配变量名，在新建对象时在后面加<code>.var</code></td></tr><tr><td align="center">double shfit</td><td align="center">全局搜索</td></tr><tr><td align="center">Home&#x2F;End</td><td align="center">快速定位行首和行尾</td></tr><tr><td align="center">.（常用null,not,return…）</td><td align="center">快速判断返回等</td></tr></tbody></table><h3 id="Templates"><a href="#Templates" class="headerlink" title="Templates"></a>Templates</h3><p>代码模板位于IDEA中Settings–&gt;Editor–&gt;Live Templates &#x2F;Postfix Completions</p><table><thead><tr><th align="center">模板</th><th align="center">功能</th></tr></thead><tbody><tr><td align="center">psvm</td><td align="center">快速生成主函数main</td></tr><tr><td align="center">sout&#x2F;soutp&#x2F;soutm&#x2F;soutv</td><td align="center">快速生成打印语句&#x2F;参数&#x2F;方法&#x2F;变量</td></tr><tr><td align="center">fori&#x2F;itar ，iter</td><td align="center">快速生成普通&#x2F;增强for 循环</td></tr><tr><td align="center">list.fori&#x2F;for</td><td align="center">快速生成集合的普通&#x2F;增强for循环</td></tr><tr><td align="center">psf&#x2F;prsf</td><td align="center">快速生成共有&#x2F;私有静态常量</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;IDEA快捷键设置方式，打开Settings–&amp;gt;keymap即可，可选择功能搜索与快捷键搜索两种方式，下面记录常用的快捷键。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="IDEA" scheme="http://example.com/tags/IDEA/"/>
+    
+    <category term="keymap" scheme="http://example.com/tags/keymap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java_introduction</title>
+    <link href="http://example.com/java-introduction/"/>
+    <id>http://example.com/java-introduction/</id>
+    <published>2022-09-07T02:33:15.000Z</published>
+    <updated>2022-09-07T02:33:15.597Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>编程从入门到入土</title>
